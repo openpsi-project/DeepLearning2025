@@ -3,11 +3,15 @@
  */
 .site-header {
     border-top: 0px solid $grey-color-dark;
-	border-bottom: 6px solid $clemson-orange;
+    border-bottom: 6px solid $clemson-orange;
     min-height: 56px;
     background-color: $clemson-purple;
     // Positioning context for the mobile navigation icon
     position: relative;
+
+    .menu-icon {
+        background-color: $new-background-color; // Add this line to change the background color of the nav icon
+    }
 }
 
 .header-texture {
