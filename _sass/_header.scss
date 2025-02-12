@@ -97,7 +97,8 @@ color: $title-color;
 }
 .site-nav  .sub-menu {
 	background: #ffffff;
-	border-color: $clemson-purple;
+	// border-color: $clemson-purple;
+    border-color: transparent;
 	min-width: 265px;
 
 	z-index:2147483647;
@@ -163,8 +164,8 @@ z-index:999;
 
     .page-link {
         color: $header-text-color;
-        // background: $clemson-purple;
-        background: transparent;
+        background: $clemson-purple;
+        // background: transparent;
         line-height: $base-line-height;
 
         // Gaps between nav items, but not on the first one
