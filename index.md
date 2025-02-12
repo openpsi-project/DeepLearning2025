@@ -3,4 +3,4 @@ layout: home
 ---
 Register to our [Google groups page](https://groups.google.com/forum/#!forum/gp-id) to get course notifications via email.
 <!-- <link rel="shortcut icon>" type="image/x-icon" href="/favicon.ico?"> -->
-<link rel="shortcut icon" href="{{ "/favicon.ico" | absolute_url }}" type="image/x-icon"/>
+<link rel="shortcut icon" href="{{ "/iiis_s.ico" | absolute_url }}" type="image/x-icon"/>
