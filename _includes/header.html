@@ -52,9 +52,16 @@
   background-image: url('{{ '/_images/pattern.png' | prepend: site.baseurl }}');" /> -->
 
   <style>
-    .site-header {
+    /* .site-header {
       background-color: #660874; /* Change this to your desired background color */
+    /* } */ 
+    .site-header {
+      background-image: url('{{ "/_images/tsinghua_campus_p_s.jpg" | prepend: site.baseurl }}');
+      background-size: cover;        /* 自适应填充 */
+      background-position: center;   /* 居中显示 */
+      background-repeat: no-repeat;  /* 不重复 */
     }
+
     .site-nav a {
       background-color: #660874; /* Change this to your desired button background color */
     }
