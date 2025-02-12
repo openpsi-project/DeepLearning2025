@@ -92,7 +92,8 @@ color: $title-color;
 }
 
 .site-nav .sub-menu a:hover {
-	color: $clemson-purple;
+	// color: $clemson-purple;
+    color: transparent;
 }
 .site-nav  .sub-menu {
 	background: #ffffff;
