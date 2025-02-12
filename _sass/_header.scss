@@ -163,7 +163,8 @@ z-index:999;
 
     .page-link {
         color: $header-text-color;
-    background: $clemson-purple;
+        // background: $clemson-purple;
+        background: transparent;
         line-height: $base-line-height;
 
         // Gaps between nav items, but not on the first one
