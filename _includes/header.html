@@ -1,21 +1,30 @@
 <header class="site-header">
 
   <div class="wrapper" style="z-index: 100;">
-      <table><tr>
-          <td><img width="140" src="{{ "/_images/iiis_logo_white.png" | prepend: site.baseurl }}" valign="middle"></td>
-          <!-- <td><img width="75" src="{{ "/_images/thufanbai.png" | prepend: site.baseurl }}" valign="middle"></td> -->
-          <td style="padding-left:10px;"><a class="schoolname" style="font-size: 15px;" class="site-title" href="{{ site.schoolurl }}">{{ site.schoolname }}</a>
-          <br/>
-          <span style="margin-top: -2px;margin-bottom: -10px;" class="site-title"><a href="{{ site.baseurl }}/" title="{{ site.course_name }} / {{ site.course_semester }} - {{ site.schoolname }}"><b>{{ site.course_name }}</a></b></span>
-          <br/>
-          <span class="coursesemeter" style="font-size: 12px;font-weight: bold;margin-top: 10px;display: block;">{{ site.course_semester }}</span>
+      <table>
+        <tr>
+          <td>
+            <img width="200" style="margin-left: -100px;" src="{{ "/_images/iiis_logo_white.png" | prepend: site.baseurl }}" valign="middle">
           </td>
-        </tr></table>
-        <style>
-          .site-nav {
-            background-color: #660874; /* Change this to your desired background color */
-          }
-        </style>
+          <!-- <td><img width="75" src="{{ "/_images/thufanbai.png" | prepend: site.baseurl }}" valign="middle"></td> -->
+          <td style="padding-left:10px;">
+            <a class="schoolname site-title" style="font-size: 15px;" href="{{ site.schoolurl }}">{{ site.schoolname }}</a>
+            <br/>
+            <span style="margin-top: -2px;margin-bottom: -10px;" class="site-title">
+              <a href="{{ site.baseurl }}/" title="{{ site.course_name }} / {{ site.course_semester }} - {{ site.schoolname }}">
+                <b>{{ site.course_name }}</b>
+              </a>
+            </span>
+            <br/>
+            <span class="coursesemeter" style="font-size: 12px;font-weight: bold;margin-top: 10px;display: block;">{{ site.course_semester }}</span>
+          </td>
+        </tr>
+      </table>
+      <style>
+        .site-nav {
+          background-color: #660874; /* Change this to your desired background color */
+        }
+      </style>
 
     <nav class="site-nav">
 
