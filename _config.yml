@@ -7,7 +7,7 @@ baseurl: "/DeepLearning2025" # the subpath of your site, e.g. /blog/
 url: "http://shihusi.github.io/" # the base hostname & protocol for your site
 
 schoolname: "Tsinghua University"
-schoolurl: "https://hogwarts.edu"
+schoolurl: "https://tsinghua.edu.cn"
 twitter_username: username 
 
 address: |
