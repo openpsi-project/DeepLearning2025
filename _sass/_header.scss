@@ -92,22 +92,22 @@ color: $title-color;
 }
 
 .site-nav .sub-menu a:hover {
-	// color: $clemson-purple;
-    color: yellow;
+	color: $clemson-purple;
+    // color: yellow;
 }
 .site-nav  .sub-menu {
 	background: #ffffff;
-	// border-color: $clemson-purple;
-    border-color: red;
+	border-color: $clemson-purple;
+    // border-color: red;
 	min-width: 265px;
 
 	z-index:2147483647;
 }
 .site-nav .sub-menu li.current-menu-item > a {
-	// border-left-color: $clemson-purple;
-    border-left-color: green;
-	// border-right-color: $clemson-purple;
-    border-right-color: green;
+	border-left-color: $clemson-purple;
+    // border-left-color: green;
+	border-right-color: $clemson-purple;
+    // border-right-color: green;
 	border-right: 0px;
 
 }
@@ -167,7 +167,8 @@ z-index:999;
     .page-link {
         color: $header-text-color;
         // background: $clemson-purple;
-        background: blue;
+        // background: blue;
+        background: transparent;
         line-height: $base-line-height;
 
         // Gaps between nav items, but not on the first one
@@ -182,8 +183,8 @@ z-index:999;
         position: absolute;
         top: 9px;
         right: 30px;
-        // background-color: $background-color;
-        background-color: orange;
+        background-color: $background-color;
+        // background-color: orange;
         border: 1px solid $grey-color-light;
         border-radius: 5px;
         text-align: right;
