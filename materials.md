@@ -20,11 +20,14 @@ Alan Turing and Noam Chomsky: Very Famous Book
 * [Material #5](http://www.example.com/): how a computer chess player thinks! -->
 Deep Learning
 * https://mitpress.mit.edu/books/deep-learning
+
 Dive into Deep Learning
 * https://d2l.ai/
+
 Use Google!
 * DeepMind and OpenAI resources
 * CMU & Stanford & Berkeley Courses
+
 Some wonderful BLOGs
 * https://towardsdatascience.com/
 * https://colah.github.io/
