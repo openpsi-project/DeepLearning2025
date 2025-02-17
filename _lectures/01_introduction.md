@@ -9,7 +9,7 @@ links:
 #       name: notes
 #     - url: /static_files/presentations/code.zip
 #       name: codes
-    - url: /_lecture_source/ppt/lec1_intro_watermark.pdf
+    - url: /static_files/ppt/lec1_intro_watermark.pdf
       name: slides
 ---
 **Course Project 1 Release**
