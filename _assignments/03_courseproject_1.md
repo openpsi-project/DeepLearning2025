@@ -1,5 +1,5 @@
 ---
-type: courseproject
+type: project
 date: 2025-03-03T12:59:00+4:30
 title: 'CourseProject #1 '
 pdf: /static_files/courseproject/CodingProject1.zip
