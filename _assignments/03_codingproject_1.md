@@ -9,4 +9,4 @@ due_event:
     date: 2025-3-03T23:59:00+3:30
     description: 'Coding Project #1'
 ---
-Enjoy
+Enjoy.
