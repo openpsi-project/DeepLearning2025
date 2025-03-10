@@ -11,6 +11,10 @@ links:
 #       name: codes
     - url: /static_files/ppt/lec2-2-24-watermark.pdf
       name: slides
+    - url: https://www.xiaohongshu.com/discovery/item/67cd39f7000000002a001cbc?source=webshare&xhsshare=pc_web&xsec_token=ABmzpFreKHskmih50fa_COWASqPsis5V4IiI3j2XzcGag=&xsec_source=pc_share
+      name: rednote
+    - url: https://www.xiaohongshu.com/discovery/item/67cd39f7000000002a001cbc?source=webshare&xhsshare=pc_web&xsec_token=ABmzpFreKHskmih50fa_COWASqPsis5V4IiI3j2XzcGag=&xsec_source=pc_share
+      name: video
 ---
 **Course Project 2 Release**
 
