@@ -11,7 +11,10 @@ links:
 #       name: codes
     - url: /static_files/ppt/lec4-3-10-watermark.pdf
       name: slides
-
+    - url: https://www.xiaohongshu.com/discovery/item/67cfa9a30000000029029dac?source=webshare&xhsshare=pc_web&xsec_token=ABfOQpfWmPj_PR_3X2Bj_2OBWDk3-GDCpF4E_3PkBhqXY=&xsec_source=pc_share
+      name: rednote
+    - url: https://www.xiaohongshu.com/discovery/item/67cfa9a30000000029029dac?source=webshare&xhsshare=pc_web&xsec_token=ABfOQpfWmPj_PR_3X2Bj_2OBWDk3-GDCpF4E_3PkBhqXY=&xsec_source=pc_share
+      name: video
 ---
 
 
