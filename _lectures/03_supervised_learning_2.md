@@ -13,8 +13,8 @@ links:
       name: slides
     - url: https://www.xiaohongshu.com/discovery/item/67cd3ae6000000002903e5e8?source=webshare&xhsshare=pc_web&xsec_token=ABmzpFreKHskmih50fa_COWIFcpINVAL6o9x-nM50lsd8=&xsec_source=pc_share
       name: rednote
-    - url: https://www.xiaohongshu.com/discovery/item/67cd3ae6000000002903e5e8?source=webshare&xhsshare=pc_web&xsec_token=ABmzpFreKHskmih50fa_COWIFcpINVAL6o9x-nM50lsd8=&xsec_source=pc_share
-      name: video
+    - url: https://www.bilibili.com/video/BV1U8ZFYvEJ7/?share_source=copy_web
+      name: public version video
 ---
 
 

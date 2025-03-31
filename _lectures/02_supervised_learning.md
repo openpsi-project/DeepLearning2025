@@ -13,8 +13,8 @@ links:
       name: slides
     - url: https://www.xiaohongshu.com/discovery/item/67cd39f7000000002a001cbc?source=webshare&xhsshare=pc_web&xsec_token=ABmzpFreKHskmih50fa_COWASqPsis5V4IiI3j2XzcGag=&xsec_source=pc_share
       name: rednote
-    - url: https://www.xiaohongshu.com/discovery/item/67cd39f7000000002a001cbc?source=webshare&xhsshare=pc_web&xsec_token=ABmzpFreKHskmih50fa_COWASqPsis5V4IiI3j2XzcGag=&xsec_source=pc_share
-      name: video
+    - url: https://www.bilibili.com/video/BV1V5oyYhEMV/?share_source=copy_web
+      name: public version video
 ---
 **Course Project 2 Release**
 
