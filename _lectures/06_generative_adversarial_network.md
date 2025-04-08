@@ -11,6 +11,8 @@ links:
 #       name: codes
     - url: /static_files/ppt/lec6-mar-24-watermark.pdf
       name: slides
+    - url: https://www.bilibili.com/video/BV1rQdWYDEiA
+      name: public version video
 
 ---
 
