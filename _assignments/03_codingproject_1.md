@@ -1,7 +1,7 @@
 ---
 type: assignment
 date: 2025-02-17T17:00:00+4:30
-title: 'Coding Project #1 - backpropagation'
+title: 'Coding Project #1 - Backpropagation'
 attachment: /static_files/courseproject/CodingProject1.zip
 # solutions: /static_files/assignments/asg_solutions.pdf
 due_event: 
