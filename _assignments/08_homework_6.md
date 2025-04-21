@@ -1,14 +1,14 @@
 ---
 type: assignment
 date: 2025-04-07T16:00:00+4:30
-title: 'Assignment #6 - Generative Adversarial Network'
+title: 'Assignment #6 - Sequence Modeling'
 pdf: /static_files/homework/Homework_6.pdf
 # attachment: /static_files/assignments/asg.zip
 # solutions: /static_files/assignments/asg_solutions.pdf
 due_event: 
     type: due
-    date: 2025-3-31T23:59:00+3:30
-    description: 'Assignment #4 due'
+    date: 2025-04-14T23:59:00+3:30
+    description: 'Assignment #6 due'
 ---
 You have 1 week's time to finish this homework. Please put your answers in two files.
 
