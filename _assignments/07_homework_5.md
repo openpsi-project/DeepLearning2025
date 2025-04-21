@@ -1,13 +1,13 @@
 ---
 type: assignment
 date: 2025-03-31T16:00:00+4:30
-title: 'Assignment #5 - Generative Adversarial Network'
+title: 'Assignment #5 - Normalizing Flow & Score-Based Model'
 pdf: /static_files/homework/Homework_5.pdf
 # attachment: /static_files/assignments/asg.zip
 # solutions: /static_files/assignments/asg_solutions.pdf
 due_event: 
     type: due
-    date: 2025-3-31T23:59:00+3:30
+    date: 2025-04-07T23:59:00+3:30
     description: 'Assignment #5 due'
 ---
 You have 1 week's time to finish this homework. Please put your answers in two files.
